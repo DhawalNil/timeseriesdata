@@ -1,0 +1,3 @@
+com\infy\timeseries\api\TimeSeriesApi.class
+com\infy\timeseries\TimeseriesApplication.class
+com\infy\timeseries\springConfig\SpringFox.class
